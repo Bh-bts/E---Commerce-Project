@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-05T10:38:21 IST" name="Default suite" finished-at="2022-08-05T10:39:23 IST" duration-ms="61189">
+    <groups>
+    </groups>
+    <test started-at="2022-08-05T10:38:21 IST" name="Default test" finished-at="2022-08-05T10:39:23 IST" duration-ms="61189">
+      <class name="com.ItemPurchase.MainPage.Item_Purchase_MainPage">
+        <test-method signature="signin()[pri:1, instance:com.ItemPurchase.MainPage.Item_Purchase_MainPage@32639b12]" started-at="2022-08-05T10:38:21 IST" name="signin" finished-at="2022-08-05T10:38:33 IST" duration-ms="12012" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method signature="Item_Added()[pri:2, instance:com.ItemPurchase.MainPage.Item_Purchase_MainPage@32639b12]" started-at="2022-08-05T10:38:33 IST" name="Item_Added" finished-at="2022-08-05T10:39:23 IST" duration-ms="49094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Item_Added -->
+      </class> <!-- com.ItemPurchase.MainPage.Item_Purchase_MainPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
